@@ -61,8 +61,9 @@ AWSLogs/{AccountID}/CloudTrail/{Region}/
   "userIdentity": {
     "type": ["Root"]
   }
-}
-}
+} }
+
+
 
 Target: SNS Topic (RootAccountAlertTopic)
 
